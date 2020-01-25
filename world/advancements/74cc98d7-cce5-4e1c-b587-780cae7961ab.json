@@ -1,0 +1,485 @@
+{
+  "sf4:age_allthethingsomglol/complete": {
+    "criteria": {
+      "Completed Age of ALLTHETHINGSOMGLOL": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/root": {
+    "criteria": {
+      "inventoryChange": "2020-01-26 03:47:17 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/sapling/cottonwood": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/complete": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800",
+      "Completed SkyFactory 4": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/complete": {
+    "criteria": {
+      "Completed Age of Exploration": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/dirt": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/bacon": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/resourcehogs": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/iron_ingot": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/green_slimy_dirt": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/nonpacifist": {
+    "criteria": {
+      "superflat2": "2020-01-26 03:47:20 +0800",
+      "superflat32": "2020-01-26 03:47:20 +0800",
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/iron_bucket": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/slime": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/string": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/silver": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/lead": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_storage/complete_no_prestige": {
+    "criteria": {
+      "Prestige Mode Disabled": "2020-01-26 03:47:18 +0800",
+      "Completed Age of Storage": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/redstone": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/petrified": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/gold": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/tin": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/wooden_crook": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/skygriddragonkill": {
+    "criteria": {
+      "Completed Age of Exploration": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/lapis": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "pacifist:pacifist_run/root": {
+    "criteria": {
+      "hasRock": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/coal": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_storage/complete": {
+    "criteria": {
+      "Completed Age of Storage": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/root": {
+    "criteria": {
+      "inventoryChange": "2020-01-26 03:47:17 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/slabs": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_storage/root": {
+    "criteria": {
+      "inventoryChange": "2020-01-26 03:47:17 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/diamond": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/obsidian": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/lavasource": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800",
+      "Completed SkyFactory 4": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/sand": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/dirt": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/coal": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "hardcore:hardcore/forgivingvoid": {
+    "criteria": {
+      "Completed Age of Exploration": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/complete": {
+    "criteria": {
+      "Completed Age of Enhancement": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/completenoprestige": {
+    "criteria": {
+      "Prestige Mode Disabled": "2020-01-26 03:47:18 +0800",
+      "Completed Age of Enhancement": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/completenoprestige": {
+    "criteria": {
+      "Prestige Mode Disabled": "2020-01-26 03:47:18 +0800",
+      "Completed Root": "2020-01-26 03:47:19 +0800",
+      "Completed SkyFactory 4": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/stone_crook": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/iron": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/completenoprestige": {
+    "criteria": {
+      "Prestige Mode Disabled": "2020-01-26 03:47:18 +0800",
+      "Completed Age of Exploration": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_farming/root": {
+    "criteria": {
+      "inventoryChange": "2020-01-26 03:47:17 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_power/root": {
+    "criteria": {
+      "inventoryChange": "2020-01-26 03:47:17 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/sleep": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/bone": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "pacifist:pacifist_run/peaceful": {
+    "criteria": {
+      "brokeLeaves": "2020-01-26 03:47:41 +0800",
+      "brokeLog": "2020-01-26 03:47:45 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/lead": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/diamond": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/water": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/acorn/dirt_cooked": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/watersource": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800",
+      "Completed SkyFactory 4": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/twerk": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/cauldron": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/cobblestone_generator": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/gravel": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_power/complete": {
+    "criteria": {
+      "Completed Age of Power": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/prestige_notify": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/crushing_tub": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/clay_bucket": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_farming/complete": {
+    "criteria": {
+      "Completed Age of Farming": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/lava": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/iron": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/root": {
+    "criteria": {
+      "non_tutorial_start": "2020-01-26 03:47:19 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/sapling/donut": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/silver": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_power/completenoprestige": {
+    "criteria": {
+      "Prestige Mode Disabled": "2020-01-26 03:47:18 +0800",
+      "Completed Age of Power": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/clay": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/cobblestone": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/gold": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/drying_rack": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_allthethingsomglol/complete_no_prestige": {
+    "criteria": {
+      "Prestige Mode Disabled": "2020-01-26 03:47:18 +0800",
+      "Completed Age of ALLTHETHINGSOMGLOL": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800",
+      "Completed SkyFactory 4": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/amber/tin": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_farming/complete_no_prestige": {
+    "criteria": {
+      "Prestige Mode Disabled": "2020-01-26 03:47:18 +0800",
+      "Completed Age of Farming": "2020-01-26 03:47:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/acorn/dirt": {
+    "criteria": {
+      "Completed Root": "2020-01-26 03:47:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_allthethingsomglol/root": {
+    "criteria": {
+      "inventoryChange": "2020-01-26 03:47:17 +0800"
+    },
+    "done": true
+  }
+}
